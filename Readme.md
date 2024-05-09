@@ -4,7 +4,7 @@
 
 ## Description
 
-AutoFormBot is a Python-based bot designed to automate the process of filling out online registration forms without using Selenium. This bot utilizes [método ou tecnologia específica] to interact with web pages and input the required information seamlessly.
+AutoFormBot is a Python-based bot designed to automate the process of filling out online registration forms without using Selenium. This bot utilizes to interact with web pages and input the required information seamlessly.
 
 ## Features
 
